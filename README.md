@@ -12,9 +12,9 @@ Now I build with Python. Same pattern -- find what's broken, build what's missin
 
 **[Claude-Innit](https://github.com/tstephx/Claude-Innit)** -- Persistent memory for Claude Code sessions. SQLite + FTS5 + semantic embeddings via MCP, so context carries across conversations instead of starting from zero every time.
 
-**Book Library MCP Server** -- 40+ tool MCP server that turns 130+ books into a searchable, AI-queryable knowledge base. Semantic search, study guides, reading progress, and project planning from your own library.
+**[Book Library MCP Server](https://github.com/tstephx/book-mcp-server)** -- 40+ tool MCP server that turns 130+ books into a searchable, AI-queryable knowledge base. Semantic search, study guides, reading progress, and project planning from your own library.
 
-**Book Ingestion Pipeline** -- Processes PDFs and EPUBs into structured, searchable chapters with embeddings. The data layer that powers everything above.
+**[Book Ingestion Pipeline](https://github.com/tstephx/book-ingestion-python)** -- Processes PDFs and EPUBs into structured, searchable chapters with embeddings. The data layer that powers everything above.
 
 ## How I Think
 
